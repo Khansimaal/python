@@ -1,8 +1,0 @@
-# Write your code here :-)
-print('hello world!')
-print("what's your name homie")
-name = input()
-print('yo, ' + name)
-print("what's your age, " + name)
-age = input()
-print('alright so your name is ' + name + ' and your age is ' + age)
